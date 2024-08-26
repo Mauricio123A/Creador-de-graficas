@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+.numero {
+    font-size: calc(1vw + 11px);
+    position: absolute;
+}
+.punto{
+    border-radius: 100%;
+    position:absolute;
+    width: 10px;
+    height: 10px;
+    background-color: black;
+}
